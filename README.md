@@ -1,1 +1,1 @@
-# example-repo
+Example Repo for xgit tutorial.
